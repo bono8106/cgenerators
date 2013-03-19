@@ -1,1 +1,1 @@
-An exercise in implementing generators in C using setjmp() and longjmp().
+An exercise in implementing generators in C using setjmp() and longjmp(). WIP.
